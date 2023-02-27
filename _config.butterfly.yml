@@ -94,7 +94,7 @@ favicon: /img/favicon.png
 
 # Avatar (頭像)
 avatar:
-  img: https://i.loli.net/2021/02/24/5O1day2nriDzjSu.png
+  img: https://s1.ax1x.com/2023/02/27/ppCAPEQ.jpg
   effect: false
 
 # Disable all banner image
@@ -497,11 +497,11 @@ site_verification:
 
 # theme_color:
 #   enable: true
-#   main: "#49B1F5"
-#   paginator: "#00c4b6"
-#   button_hover: "#FF7242"
-#   text_selection: "#00c4b6"
-#   link_color: "#99a9bf"
+#   main: "#ffd851"
+#   paginator: "#ffb020"
+#   button_hover: "#ffd1d1"
+#   text_selection: "#ffbdae"
+#   link_color: "#f9d49c"
 #   meta_color: "#858585"
 #   hr_color: "#A4D8FA"
 #   code_foreground: "#F47466"
