@@ -6,7 +6,7 @@ menu:
   # Home: / || fas fa-home
   # Archives: /archives/ || fas fa-archive
   # Tags: /tags/ || fas fa-tags
-  # Categories: /categories/ || fas fa-folder-open
+   Categories: /categories/ || fas fa-folder-open
   # List||fas fa-list:
   #   Music: /music/ || fas fa-music
   #   Movie: /movies/ || fas fa-video
@@ -104,7 +104,7 @@ disable_top_img: true
 index_img:
 
 # If the banner of page not setting, it will show the top_img
-default_top_img:
+default_top_img: https://s1.ax1x.com/2023/02/27/ppCQeJO.jpg
 
 # The banner image of archive page
 archive_img:
@@ -440,7 +440,7 @@ messenger:
 footer:
   owner:
     enable: true
-    since: 2020
+    since: 2023
   custom_text:
   copyright: true # Copyright of theme and framework
 
@@ -532,7 +532,7 @@ tag_ui: # 留空或 index
 background: url(https://s1.ax1x.com/2023/02/27/ppCQeJO.jpg)
 
 # Footer Background
-footer_bg: false
+footer_bg: #F7E7CE
 
 # the position of bottom right button/default unit: px (右下角按鈕距離底部的距離/默認單位為px)
 rightside-bottom:
@@ -561,12 +561,12 @@ canvas_fluttering_ribbon:
 # canvas_nest
 # https://github.com/hustcc/canvas-nest.js
 canvas_nest:
-  enable: false
-  color: '0,0,255' #color of lines, default: '0,0,0'; RGB values: (R,G,B).(note: use ',' to separate.)
+  enable: true
+  color: '255,240,245' #color of lines, default: '0,0,0'; RGB values: (R,G,B).(note: use ',' to separate.)
   opacity: 0.7 # the opacity of line (0~1), default: 0.5.
   zIndex: -1 # z-index property of the background, default: -1.
   count: 99 # the number of lines, default: 99.
-  mobile: false
+  mobile: true
 
 # Typewriter Effect (打字效果)
 # https://github.com/disjukr/activate-power-mode
@@ -584,8 +584,8 @@ fireworks:
 
 # Mouse click effects: Heart symbol (鼠標點擊效果: 愛心)
 click_heart:
-  enable: false
-  mobile: false
+  enable: true
+  mobile: true
 
 # Mouse click effects: words (鼠標點擊效果: 文字)
 ClickShowText:
@@ -676,11 +676,11 @@ aside:
     button:
       enable: true
       icon: fab fa-github
-      text: Follow Me
-      link: https://github.com/xxxxxx
+      text: Github
+      link: https://github.com/JayLXL
   card_announcement:
     enable: true
-    content: This is my Blog
+    content: Jay and Erine are best friend.
   card_recent_post:
     enable: true
     limit: 5 # if set 0 will show all
@@ -754,9 +754,9 @@ readmode: true
 
 # dark mode
 darkmode:
-  enable: true
+  enable: false
   # Toggle Button to switch dark/light mode
-  button: true
+  button: false
   # Switch dark/light mode automatically (自動切換 dark mode和 light mode)
   # autoChangeMode: 1  Following System Settings, if the system doesn't support dark mode, it will switch dark mode between 6 pm to 6 am
   # autoChangeMode: 2  Switch dark mode between 6 pm to 6 am
