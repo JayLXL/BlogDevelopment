@@ -3,7 +3,7 @@
 # --------------------------------------
 
 menu:
-  # Home: / || fas fa-home
+   Home: / || fas fa-home
   # Archives: /archives/ || fas fa-archive
   # Tags: /tags/ || fas fa-tags
    Categories: /categories/ || fas fa-folder-open
@@ -890,8 +890,13 @@ css_prefix: true
 inject:
   head:
     # - <link rel="stylesheet" href="/xxx.css">
+    - <link rel="stylesheet" href="/css/fish.css">
+    - <script src="/js/sakura.js"></script>
+    - <link rel="stylesheet" href="/css/footer_trans.css">
   bottom:
     # - <script src="xxxx"></script>
+    - <script src="https://cdn.bootcss.com/jquery/3.4.1/jquery.min.js"></script>
+    - <script src="https://gcore.jsdelivr.net/gh/xiabo2/CDN@latest/fishes.js"></script>
 
 # CDN
 # Don't modify the following settings unless you know how they work
