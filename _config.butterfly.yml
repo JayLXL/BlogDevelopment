@@ -90,7 +90,7 @@ katex:
 # --------------------------------------
 
 # Favicon（網站圖標）
-favicon: /img/favicon.png
+favicon: https://s1.ax1x.com/2023/03/01/ppieNl9.png
 
 # Avatar (頭像)
 avatar:
@@ -893,10 +893,13 @@ inject:
     - <link rel="stylesheet" href="/css/fish.css">
     - <script src="/js/sakura.js"></script>
     - <link rel="stylesheet" href="/css/footer_trans.css">
+    - <link rel="stylesheet" href="/css/scrollbar.css">
+    #- <link rel="stylesheet" href="/css/cursor.css">
   bottom:
     # - <script src="xxxx"></script>
     - <script src="https://cdn.bootcss.com/jquery/3.4.1/jquery.min.js"></script>
     - <script src="https://gcore.jsdelivr.net/gh/xiabo2/CDN@latest/fishes.js"></script>
+    - <script type="text/javascript" src="/js/fairyDustCursor.js"></script>
 
 # CDN
 # Don't modify the following settings unless you know how they work
