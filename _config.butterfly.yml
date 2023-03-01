@@ -677,7 +677,7 @@ aside:
       enable: true
       icon: fab fa-github
       text: Github
-      link: https://github.com/JayLXL
+      link: https://github.com/JayLXL/BlogDevelopment
   card_announcement:
     enable: true
     content: Jay and Erine are best friend.
