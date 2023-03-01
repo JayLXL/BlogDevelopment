@@ -129,7 +129,7 @@ category_per_img:
 
 cover:
   # display the cover or not (是否顯示文章封面)
-  index_enable: false
+  index_enable: true
   aside_enable: true
   archives_enable: true
   # the position of cover in home page (封面顯示的位置)
@@ -894,7 +894,7 @@ inject:
     - <script src="/js/sakura.js"></script>
     - <link rel="stylesheet" href="/css/footer_trans.css">
     - <link rel="stylesheet" href="/css/scrollbar.css">
-    #- <link rel="stylesheet" href="/css/cursor.css">
+    - <link rel="stylesheet" href="/css/cursor.css">
   bottom:
     # - <script src="xxxx"></script>
     - <script src="https://cdn.bootcss.com/jquery/3.4.1/jquery.min.js"></script>
