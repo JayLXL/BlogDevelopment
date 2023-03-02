@@ -105,3 +105,8 @@ deploy:
   type: git
   repository: git@github.com:JayLXL/JayLXL.github.io.git
   branch: master
+
+search:
+  path: all
+  field: post
+  content: true
