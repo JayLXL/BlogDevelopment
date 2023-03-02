@@ -3,6 +3,7 @@ title: 重装hexo仓库
 categories: 笔记
 tags: 
 - blog搭建
+cover: https://s1.ax1x.com/2023/03/02/ppFFObT.jpg
 ---
 不知道为什么，本地的Hexo库突然就失效了，于是重新装了一下。
 

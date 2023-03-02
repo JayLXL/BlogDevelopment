@@ -4,6 +4,7 @@ categories: 笔记
 tags: 
 - ACM
 - csdn
+cover: https://s1.ax1x.com/2023/03/02/ppFFvaF.jpg
 ---
 ​[csdn](https://blog.csdn.net/m0_61322309/article/details/123586007?spm=1001.2014.3001.5502)
 Problem Description

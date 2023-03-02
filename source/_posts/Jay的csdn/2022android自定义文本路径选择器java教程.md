@@ -4,6 +4,7 @@ categories: 笔记
 tags: 
 - android
 - csdn
+cover: https://s1.ax1x.com/2023/03/02/ppFkiKx.jpg
 ---
 [csdn](https://blog.csdn.net/m0_61322309/article/details/126552369?spm=1001.2014.3001.5501)
 - ​预期效果：通过点击文件夹或文件，选择文件或文件夹，并返回选择的路径

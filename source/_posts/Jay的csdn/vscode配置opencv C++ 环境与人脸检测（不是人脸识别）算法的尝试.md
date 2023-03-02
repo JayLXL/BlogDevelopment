@@ -4,6 +4,7 @@ categories: 笔记
 tags: 
 - 机器学习
 - csdn
+cover: https://s1.ax1x.com/2023/03/02/ppFFjVU.jpg
 ---
 ​[csdn](https://blog.csdn.net/m0_61322309/article/details/124214186?spm=1001.2014.3001.5501)
 估计这学期都去不了学校了，家里蹲大学马上要线上期中考。。。在家呆久了无聊想学点机器视觉的东西，之前在学校双创课上做过python的机器视觉实验，想起来挺有意思的，但是还是比较喜欢C++，就找到了这个看上去还不错的C++开源项目 ，opencv。
