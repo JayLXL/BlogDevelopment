@@ -110,3 +110,8 @@ search:
   path: all
   field: post
   content: true
+
+# MathJax Support
+mathjax:
+  enable: true
+  per_page: true
