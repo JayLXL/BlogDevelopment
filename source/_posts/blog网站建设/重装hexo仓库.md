@@ -1,6 +1,6 @@
 ---
 title: 重装hexo仓库
-categories: 笔记
+categories: 网站日志
 tags: 
 - blog搭建
 cover: https://s1.ax1x.com/2023/03/02/ppFFObT.jpg
