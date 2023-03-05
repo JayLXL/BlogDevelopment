@@ -2,7 +2,7 @@
 title: blog优化更新
 categories: 网站日志
 tags: blog搭建
-cover: https://s1.ax1x.com/2023/03/02/ppFEcvR.jpg
+cover: https://s1.ax1x.com/2023/03/04/ppEAXz4.jpg
 ---
 2023.3.4
 增加Hexo渲染latex功能
