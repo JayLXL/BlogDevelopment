@@ -79,7 +79,7 @@ docsearch:
 mathjax:
   enable: true
   per_page: true
-
+  width: 200%
 # KaTeX
 katex:
   enable: false
