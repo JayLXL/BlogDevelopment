@@ -115,3 +115,4 @@ search:
 mathjax:
   enable: true
   per_page: true
+  width: 100%

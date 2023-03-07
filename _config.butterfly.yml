@@ -79,7 +79,8 @@ docsearch:
 mathjax:
   enable: true
   per_page: true
-  width: 200%
+  width: 100%
+
 # KaTeX
 katex:
   enable: false
@@ -504,7 +505,7 @@ theme_color:
   link_color: "#C6ABB1"  #链接
   meta_color: "#858585" 
   hr_color: "#FADEA5"
-  code_foreground: "#FF8C7F"
+  code_foreground: "#FF8C00"
   code_background: "rgba(27, 31, 35, .05)"
   toc_color: "#FFB2B2"
   blockquote_padding_color: "#FFBB61"
@@ -895,6 +896,7 @@ inject:
     - <link rel="stylesheet" href="/css/footer_trans.css">
     - <link rel="stylesheet" href="/css/scrollbar.css">
     - <link rel="stylesheet" href="/css/cursor.css">
+    - <link rel="stylesheet" href="/css/mathjax_display.css">
   bottom:
     # - <script src="xxxx"></script>
     - <script src="https://cdn.bootcss.com/jquery/3.4.1/jquery.min.js"></script>
