@@ -3,7 +3,7 @@ title: git使用
 categories: 笔记
 tags: 
 - git
-cover: https://s1.ax1x.com/2023/03/02/ppFFx54.jpg
+cover: https://s1.ax1x.com/2023/03/10/ppnbMQ0.jpg
 ---
 ## 项目分支情况
 * 远程分支：目前只需要一个远程master分支就好，大家直接在上面开发提交。
